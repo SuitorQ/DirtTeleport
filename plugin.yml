@@ -1,7 +1,0 @@
-name: DirtPort
-main: io.github.suitorq.DirtTeleport
-version: 1.0
-authours: DirtDragon
-commands:
-  dtp:
-    description: Your basic teleportation!
